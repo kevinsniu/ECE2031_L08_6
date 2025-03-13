@@ -3,3 +3,6 @@ Final Project for 2025 ECE2031 L08 Group 6
 
 Kevin Niu
 4706365696
+
+Dan Galea
+9177699559
